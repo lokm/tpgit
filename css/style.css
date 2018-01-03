@@ -1,3 +1,9 @@
-boby {
+body {
 	background:green;
+}
+h1 {
+	font-size: 2em;
+}
+p {
+	text-justify: center;
 }
